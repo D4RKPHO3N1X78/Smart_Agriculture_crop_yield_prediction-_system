@@ -1,1 +1,0 @@
-# Smart_Agriculture_crop_yield_prediction-_system
